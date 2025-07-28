@@ -2,8 +2,10 @@
 
 ## Project Overview
 
-This project addresses **SDG 13 (Climate Action)** and **SDG 11 (Sustainable Cities and Communities)** by developing a machine learning model to predict flash flood risks in small towns. The solution is tailored for smaller communities that are often overlooked but equally vulnerable to climate change impacts.
-                                   ##  **https://flood-prediction-25.streamlit.app/**
+This project addresses **SDG 13 (Climate Action)** and **SDG 11 (Sustainable Cities and Communities)** by developing a machine learning model to predict flash flood risks in small towns. The solution is tailored for smaller communities that are often overlooked but equally vulnerable to climate change impacts.  
+
+  Use the link to view :
+                                     **https://flood-prediction-25.streamlit.app/**
 
 ## 🎯 Problem Statement
 
